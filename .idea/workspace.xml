@@ -92,7 +92,7 @@
       <path value="$PROJECT_DIR$/demo0401/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="687" />
@@ -175,15 +175,15 @@
       <option name="presentableId" value="Default" />
       <updated>1554118199404</updated>
       <workItem from="1554118202484" duration="2965000" />
-      <workItem from="1554169918021" duration="4031000" />
+      <workItem from="1554169918021" duration="4353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6996000" />
+    <option name="totallyTimeSpent" value="7318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
